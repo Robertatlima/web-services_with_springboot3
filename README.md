@@ -15,4 +15,5 @@
 * Tratamento de exceções
 
 
+## DOMAIN MODEL
 ![Captura de tela de 2023-08-19 17-40-00](https://github.com/Robertatlima/web-services_with_springboot3/assets/80784099/9c39000d-3f72-47cb-a6a9-61bdacf1d69f)
