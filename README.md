@@ -3,7 +3,7 @@
 * Apache TomCat
 * Maven
 * H2
-* Postaman
+* Postman
 
 ## Goals
 * Create Spring Boot Java project
